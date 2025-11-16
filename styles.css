@@ -1,1 +1,16 @@
 /* your code */
+
+.table{
+	border: 2px solid black;
+	border-radius: 10px;
+	height: 100%;
+	width: 100%;
+}
+
+.header{
+	background-color: cyan;
+}
+
+.bodys-2 {
+	background-color: lightgray;
+}
